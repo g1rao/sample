@@ -2,6 +2,7 @@
   "name": "sample-spa",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://narendra95.github.io/sample/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
